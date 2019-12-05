@@ -133,7 +133,7 @@
     "ngeohash": "^0.6.3",
     "node-forge": "^0.8.5",
     "node-md6": "^0.1.0",
-    "nodom": "^2.2.0",
+    "nodom": "^2.4.0",
     "notepack.io": "^2.2.0",
     "nwmatcher": "^1.4.4",
     "otp": "^0.1.3",
